@@ -12,7 +12,7 @@ class NewViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        print("我打印了一个东西")
     }
 
     override func didReceiveMemoryWarning() {
